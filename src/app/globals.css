@@ -1,0 +1,25 @@
+body {
+    position: relative;
+    padding: 3%;
+    line-height: 1.5rem;
+
+    background-color: #282c34;
+    font-size: 1.1rem;
+    color: #bbbfc4;
+}
+
+.tm-white {
+    color: #bbbfc4;
+}
+
+.tm-green {
+    color: #98c379;
+}
+
+.tm-blue {
+    color: #61afef;
+}
+
+a {
+    color: lightblue;
+}
