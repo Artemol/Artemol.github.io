@@ -19,7 +19,7 @@ export default function Home() {
       </div>
       <br />
       <Image
-        src="/GakusaiLauncher/01.png"
+        src="/GakusaiLauncher/01.jpg"
         style={{ maxWidth: "100%", height: "auto" }}
         width={951}
         height={445}

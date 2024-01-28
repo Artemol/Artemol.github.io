@@ -15,8 +15,8 @@ const Portfolio = () => (
       Hello, World! I&#39;m Artemol! <br />
       <Image src="/profile.png" width={160} height={160} alt="Profile Image" />
       <br />
-      東北にある大学の学生です。ゲーム制作サークルに所属しており、趣味でプログラミングをしています。
-      フロントエンドよりはバックエンドが趣味で、最近はDockerを勉強中。
+      東北にある大学の学生です。ゲーム制作サークルに所属していて、趣味でプログラミングをしています。
+      フロントエンドよりはバックエンドが専門で、最近はRustとかDockerを勉強中。
       <br />
       GitHubアカウント: <a href="https://github.com/Artemol">Artemol</a>
     </div>

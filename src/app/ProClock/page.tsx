@@ -10,8 +10,6 @@ export default function Home() {
         <br />
         日付や時間に加え、天気や気温、日の出/日の入時刻なども表示する。
         <br />
-        また、3:34と15:34に文字が虹色になる。
-        <br />
         元々Unityで実装されていたものをElectron + Reactで再実装。
         <br />
         <a href="/">Back to Home</a>
