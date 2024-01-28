@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Prompt from "../Prompt";
 
 export default function Home() {
@@ -16,13 +15,13 @@ export default function Home() {
         <a href="/">Back to Home</a>
       </div>
       <br />
-      <Image
+      <img
         src="/Organization-Inviter/01.png"
         style={{ maxWidth: "100%", height: "auto" }}
         width={951}
         height={445}
         alt="About Organization-Inviter"
-      ></Image>
+      ></img>
     </>
   );
 }
