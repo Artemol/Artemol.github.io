@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Ubuntu_Mono } from "next/font/google";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import "./globals.css";
 
 // const inter = Inter({ subsets: ["latin"] });
@@ -17,6 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="jp">
+      <GoogleAnalytics gaId="G-C60QXFFJH4" />
       <body className={inter.className}>{children}</body>
     </html>
   );
